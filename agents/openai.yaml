@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chinese Wisdom in 60 Seconds"
+  short_description: "Create English 60-second Chinese idiom videos"
+  default_prompt: "Use $chinese-wisdom-in-60-seconds to turn a Chinese idiom into an English 9:16 short video."

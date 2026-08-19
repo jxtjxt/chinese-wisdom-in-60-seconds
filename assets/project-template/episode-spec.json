@@ -1,0 +1,83 @@
+{
+  "version": 2,
+  "project": {
+    "idiom": "请替换成语",
+    "pinyin": "Qǐng tìhuàn",
+    "literal_gloss": "Replace with a literal gloss.",
+    "meaning": "Replace with one concise practical meaning.",
+    "meaning_display": "Replace with one concise\npractical meaning.",
+    "reflection": "When have you seen this happen?",
+    "reflection_display": "When have you seen\nthis happen?",
+    "meaning_source": "Recorded in the authoritative source.",
+    "target_duration_sec": 60
+  },
+  "characters": [],
+  "sources": [],
+  "voices": {},
+  "scenes": [
+    {
+      "narrative_function": "hook",
+      "visual_description": "Replace with the visual paradox.",
+      "duration_sec": 7,
+      "historicity": "sourced",
+      "focus": {"x": 0.5, "y": 0.5},
+      "motion": {"type": "scale", "from_scale": 1.0, "to_scale": 1.05},
+      "utterances": [{"speaker": "narrator", "kind": "narration", "text": "Replace with a one-sentence hook.", "emotion": "curious", "pause_after_ms": 250, "caption_pages": ["Replace with a\none-sentence hook."]}]
+    },
+    {
+      "narrative_function": "setup",
+      "visual_description": "Replace with setup.",
+      "duration_sec": 9,
+      "historicity": "sourced",
+      "focus": {"x": 0.5, "y": 0.5},
+      "motion": {"type": "none"},
+      "copyright_mark": {"text": "© CARTGO", "x": 120, "y": 210, "font_size": 36, "opacity": 0.55},
+      "utterances": [{"speaker": "narrator", "kind": "narration", "text": "Replace with setup.", "emotion": "warm", "pause_after_ms": 250, "caption_pages": ["Replace with setup."]}]
+    },
+    {
+      "narrative_function": "cause",
+      "visual_description": "Replace with cause.",
+      "duration_sec": 10,
+      "historicity": "sourced",
+      "focus": {"x": 0.5, "y": 0.5},
+      "motion": {"type": "none"},
+      "utterances": [{"speaker": "narrator", "kind": "narration", "text": "Replace with cause.", "emotion": "engaged", "pause_after_ms": 250, "caption_pages": ["Replace with cause."]}]
+    },
+    {
+      "narrative_function": "turn",
+      "visual_description": "Replace with the irreversible turn.",
+      "duration_sec": 10,
+      "historicity": "sourced",
+      "focus": {"x": 0.5, "y": 0.5},
+      "motion": {"type": "scale", "from_scale": 1.0, "to_scale": 1.05},
+      "utterances": [{"speaker": "narrator", "kind": "narration", "text": "Replace with the turning point.", "emotion": "surprised", "pause_after_ms": 250, "caption_pages": ["Replace with the\nturning point."]}]
+    },
+    {
+      "narrative_function": "consequence",
+      "visual_description": "Replace with the consequence.",
+      "duration_sec": 10,
+      "historicity": "sourced",
+      "focus": {"x": 0.5, "y": 0.5},
+      "motion": {"type": "pan", "from_x_px": 0, "to_x_px": 30, "from_y_px": 0, "to_y_px": 0},
+      "utterances": [{"speaker": "narrator", "kind": "narration", "text": "Replace with the consequence.", "emotion": "clear", "pause_after_ms": 250, "caption_pages": ["Replace with the\nconsequence."]}]
+    },
+    {
+      "narrative_function": "meaning",
+      "visual_description": "Replace with the meaning-card composition.",
+      "duration_sec": 10,
+      "historicity": "inferred",
+      "focus": {"x": 0.5, "y": 0.55},
+      "motion": {"type": "none"}
+    }
+  ],
+  "publishing": {
+    "platform_checked_on": "YYYY-MM-DD",
+    "official_platform_sources": [],
+    "tiktok": {"caption": "Replace with a short English caption.", "hashtags": ["#ChineseIdioms", "#ChineseCulture", "#Storytime"]},
+    "youtube_shorts": {"title": "Replace with a short accurate title", "description": "Replace with the idiom, pinyin, meaning, and source note.", "hashtags": ["#ChineseIdioms", "#Shorts"], "tags": ["Chinese idiom", "Chinese culture", "learn Chinese"]},
+    "source_note": "Replace with a careful public citation.",
+    "music_credit": "Replace with track, creator, and license.",
+    "music": {"file": "music/replace-with-licensed-track.ogg", "volume": 0.05},
+    "cover": {"title": "REPLACE THIS COVER", "visual_hook": "Replace with one truthful visual contradiction.", "selection_reason": "Replace with why the cover should attract the intended viewer.", "layout": {"top": 570, "width": 648, "font_size": 49}}
+  }
+}
